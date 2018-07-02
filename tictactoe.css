@@ -1,0 +1,13 @@
+td {
+    border: 1px solid blue;
+    padding: 60px;
+}
+
+td:hover {
+    background: orange;
+    cursor: pointer;
+}
+
+table {
+    border: 1px solid green;
+}
