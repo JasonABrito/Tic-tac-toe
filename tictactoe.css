@@ -1,13 +1,28 @@
 td {
-    border: 1px solid blue;
-    padding: 60px;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+
 }
 
 td:hover {
-    background: orange;
-    cursor: pointer;
+    background: aliceblue;
+
 }
 
 table {
-    border: 1px solid green;
+    border: 3px solid black;
+    background: radial-gradient(crimson, red, red, silver, silver, grey)
 }
+body{
+    cursor: url("catt.png"), auto;
+
+}
+
+
+
+
